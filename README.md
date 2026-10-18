@@ -4,6 +4,8 @@
 
 ![TaskFlow board with Backlog, To Do and In Progress lists, priority labels and insight cards](docs/screenshot.jpg)
 
+![Animated demo: dragging a card to In Progress, searching tasks and opening Insights](docs/demo.gif)
+
 A Trello-style Kanban board for planning projects (or your job hunt!). Drag tasks between lists, track priorities and deadlines, and see progress at a glance.
 
 **Tech:** React 19 · TypeScript · Vite · Tailwind CSS v4 · dnd-kit · Zustand (persisted) · Lucide icons
